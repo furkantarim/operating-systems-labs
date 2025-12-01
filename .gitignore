@@ -1,2 +1,2 @@
-# Visual Studio Code ayarlarını hariç tut
+#Exclude Visual Studio Code settings
 .vscode/
