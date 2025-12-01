@@ -1,6 +1,6 @@
 # Operating Systems Laboratory Exercises
 
-This repository contains the laboratory exercises for the Operating Systems course. The assignments focus on fundamental concepts of Operating Systems, including File I/O and Process Management, implemented using C system calls
+This repository contains the laboratory exercises for the Operating Systems course. The assignments focus on fundamental concepts of Operating Systems, including File I/O and Process Management, implemented using C system calls.
 
 ## Folder Structure
 
